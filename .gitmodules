@@ -1,0 +1,3 @@
+[submodule "projects/app-sport"]
+	path = projects/app-sport
+	url = git@github.com:mateotop/app-sport-1.git
