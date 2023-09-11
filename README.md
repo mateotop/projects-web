@@ -1,4 +1,5 @@
 # projects-web
-Repo for my web projects. Like sport app or ...
+Third level domain. Menu for web-projects. 
 
 https://projects.mateofpv.ru/
+https://mateotop.github.io/projects-web
